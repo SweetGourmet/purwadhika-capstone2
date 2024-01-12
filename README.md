@@ -65,3 +65,5 @@ Beberapa insight yang saya dapatkan diantaranya adalah:
 * Customer dengan jumlah anak yang lebih banyak cenderung menolak kampanye yang diberikan, kita bisa menawarkan paket keluarga.
 * Banyak kampanye yang tidak diterima berasal dari customer yang memang sudah tidak aktif berbelanja di supermarket tersebut,hal ini mungkin saja karena customer telah berbelanja di supermarket lain dengan penawaran yang lebih menarik. Kita bisa melakukan research lebih lanjut untuk pesaing-pesaing dan mengirimkan penawaran khusus bagi customer yang sudah tidak aktif berbelanja.
 
+Link to Tableau Dashboard : [https://public.tableau.com/views/SupermarketAnalysis_17049495781490/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link]
+
